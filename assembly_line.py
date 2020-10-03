@@ -14,7 +14,7 @@ def custom_optim_function(stations, boleans_tasks_same_station,
     WEIGHT_NUM_STATIONS_USED = 1
     Q = num_tasks
 
-    #Try to assign same tasks to same stations (TODO FINISH THIS CORRECTLY)
+    #Try to assign same tasks to same stations
     for t in all_tasks:
         for s in all_stations:
         	Q = Q - WEIGHT_SAME_TASK_AT_SAME_STATION*boleans_tasks_same_station[(t,s)]
