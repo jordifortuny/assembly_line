@@ -1,6 +1,8 @@
 # Readme
 
-This repository contains the code to obtain the optimal solution of the multi-model line balancing problem
+This repository contains the code to obtain the optimal solution of the multi-model line balancing problem as explained in:
+
+Fortuny-Santos, J.; Ruiz-de-Arbulo-López, P.; Cuatrecasas-Arbós, L.; Fortuny-Profitós, J. Balancing Workload and Workforce Capacity in Lean Management: Application to Multi-Model Assembly Lines. Appl. Sci. 2020, 10, 8829. https://doi.org/10.3390/app10248829
 
 ## Dependencies
 
